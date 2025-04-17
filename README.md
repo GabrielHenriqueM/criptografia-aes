@@ -83,36 +83,36 @@ Define o **tema visual** do sistema:
 
 Abaixo estão as capturas de tela feitas em sequência para demonstrar o funcionamento da aplicação:
 
-### 1. Tela Inicial - Cifrar
-O usuário digita a mensagem e a chave.
+### 1. Interface Inicial (vazia)
+Tela aberta pela primeira vez, com design escuro e moderno, sem nenhum dado digitado ainda.
 
 ![Execução 1](imagens/exec1.png)
 
 ---
 
-### 2. Resultado da Cifragem
-O campo “Resultado” mostra a mensagem criptografada.
+### 2. Preenchimento dos Campos para Cifrar
+O usuário digita a mensagem e a chave de criptografia.
 
 ![Execução 2](imagens/exec2.png)
 
 ---
 
-### 3. Acesso à Aba de Decifrar
-O usuário cola a mensagem cifrada e a mesma chave.
+### 3. Resultado da Cifragem
+O campo “Resultado” exibe a mensagem criptografada.
 
 ![Execução 3](imagens/exec3.png)
 
 ---
 
-### 4. Resultado da Decifragem
-A mensagem original é recuperada corretamente.
+### 4. Acesso à Aba de Decifrar
+O usuário acessa a aba de decifragem e cola a mensagem cifrada junto com a mesma chave.
 
 ![Execução 4](imagens/exec4.png)
 
 ---
 
-### 5. Sistema Completo em Funcionamento
-Interface final com todos os elementos visíveis e funcionais.
+### 5. Resultado da Decifragem
+O sistema exibe corretamente a mensagem original após o processo de decifração.
 
 ![Execução 5](imagens/exec5.png)
 
